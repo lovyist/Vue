@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab246be5-8221-4143-a10f-effd6d7df55e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/add.9e81174675a2fe28e4ba.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/addAddress.499e26f2be5baaf54fda.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/addDetail.ecc375d936f5748725fb.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/address.503261e1c36148acf368.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/balance.33c11b9d641453f45ddc.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/balanceDetail.05e987e4abf92d6c6815.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/benefit.59caaf0a4096185913f0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/chooseAddress.5ef32b3a4a76faf51ec7.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/city.776cd1b7e91ebb036f98.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/commend.149468c62e0c536b60d2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/confirmOrder.dc269dd54c25c465c38e.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/coupon.5c6270ba6744dca14c13.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/download.63c6ef04a9e9daea03d0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/exchange.b686dab63feed9a03289.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/find.53e7e81da782f34255b8.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/food.65e62d4d4c63079481d1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/foodDetail.ddd0d98f41293071fcb4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/forget.ca0dee43ae9b1bcee61d.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/hbDescription.a522fca94335dd069525.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/hbHistory.7d23f0574cef99cba753.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/home.993026ceebbb14e9bb41.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/info.cfe87987c75face0c5ff.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/invoice.5a2825e421987595c488.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/invoiceRecord.53d6d9b2ff8b69be54c8.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/login.70722b0206325c06b0b7.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/msite.5757d01abf3ab1ccd185.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/order.978cbf3bd01f2d4c04ff.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/orderDetail.e5adadb78b495de5682e.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/payment.aa579e61127b4532ff97.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/points.8378c91f5da6c989b421.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/pointsDetail.eb5330cbbe9e4713219a.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/profile.4cb10b774f1be7c66ca7.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/questionDetail.a3fd339397ed7e9faa8f.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/remark.1f5ca561244ad7e9d797.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/search.fc3a72f64317d7d26769.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/searchAddress.2851467e375d9c1ec764.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/service.ecdb0692614416ee9c20.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/setusername.c630011bea35f9c1c46c.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/shop.ca304dd0fc3cd679fb57.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/shopDetail.f38c52209d6b6e3dc19f.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/shopSafe.38a103703b5fe4c668de.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/useCart.b54228da880ede6e84c4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/userValidation.ec0d6bedcabde3684be2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/vipDescription.3e777d02286527f7d0fc.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elm/static/js/vipcard.6610d4ae146be4f4e9c0.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elm/static/css/app.css" afterPath="$PROJECT_DIR$/elm/static/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elm/static/js/app.js" afterPath="$PROJECT_DIR$/elm/static/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elm/static/js/manifest.js" afterPath="$PROJECT_DIR$/elm/static/js/manifest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elm/static/js/vendor.js" afterPath="$PROJECT_DIR$/elm/static/js/vendor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="vue2-elm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vue2-elm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elm/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="80" column="43" selection-start-line="80" selection-start-column="43" selection-end-line="80" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3591">
+              <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue2-elm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue2-elm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue2-elm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue2-elm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue2-elm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue2-elm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue2-elm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab246be5-8221-4143-a10f-effd6d7df55e" name="Default" comment="" />
+      <created>1489484064679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489484064679</updated>
+      <workItem from="1489484066450" duration="2830000" />
+      <workItem from="1489487239343" duration="601000" />
+      <workItem from="1489546104275" duration="1910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5341000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1066" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18599033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3591">
+          <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3591">
+          <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3591">
+          <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="80" column="43" selection-start-line="80" selection-start-column="43" selection-end-line="80" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
